@@ -1,0 +1,6 @@
+{
+  "name": "RÖH — Robot Özel Harekât",
+  "description": "Çok Ajanlı Yapay Zekâ Komuta ve Operasyon Merkezi. Kamil Teacher komutasında, Gemo koordinasyonunda uzman yapay zekâ ajanları operasyon yönetim sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
